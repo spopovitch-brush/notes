@@ -2,23 +2,27 @@
 
 ## FCC Italia a Bologna
 
-- [ ] Prendere treno da Napoli a Bologna il 15 dicembre
+- [ ] Prendere treno da Napoli a Bologna il 16 dicembre
 
-- [ ] Prendere hotel a Bologna
+- [x] Prendere hotel a Bologna
+Hotel Accademia: 111,15 € (Colazione inclusa)
 ## Belle 2 Italia a Torino
 
 - [ ] Prendere treno da Bologna a Torino il 17 dicembre
   
-- [ ] Prendere hotel a Torino
+- [x] Prendere hotel a Torino
+Hotel CX Turin Marconi: 206.05 € (Colazione inclusa)
+
 
 - [ ] Prendere treno da Torino a Genova il 19 dicembre
  
 ## Genova con Ilas - 19 dicembre - 23 dicembre
 
 AirBnb: Link per prenotazione AirBnb: [website](https://www.airbnb.it/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMCWEQTHBZ)
+Hotel Genova: 240,00 €
 
+(farsi dare soldi da Ilaria)
 
-Costo totale: **240,00 €**
 
 
 ### Condizioni di cancellazione
