@@ -1,0 +1,22 @@
+logbook:
+  - date: "2025-06-24"
+    label: "Prima Dieta"
+    peso_kg: 86.8
+    circonferenza_vita_cm: 94
+  - date: "2025-07-15"
+    peso_kg: 83.5
+  - date: "2025-07-29"
+    peso_kg: 81.7
+    circonferenza_vita_cm: 88
+    commenti: "Seconda Dieta"
+  - date: "2025-08-26"
+    peso_kg: 81.7
+  - date: "2025-09-19"
+    peso_kg: 80.2
+    circonferenza_vita_cm: 85
+    commenti: "Terza Dieta"
+  - date: "2025-11-07"
+    peso_kg: 80.0
+    commenti: "5 g di dieta. Iniziato Palestra"
+  - date: "2025-11-18"
+    peso_kg: null
