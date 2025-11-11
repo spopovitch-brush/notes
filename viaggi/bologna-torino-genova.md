@@ -1,8 +1,11 @@
 # FCC Italia - B2 Italia - 4 gg a Genova
 
 ## FCC Italia a Bologna
-
-- [ ] Prendere treno da Napoli a Bologna il 16 dicembre
+- [x] Prendere treno da Napoli a Bologna — 16 dicembre
+    - Treno: Italo 9974
+    - Partenza: Napoli C. — 07:40
+    - Arrivo: Bologna — 11:08
+    - Costo: 32,90 €
 
 - [x] Prendere hotel a Bologna
 Hotel Accademia: 111,15 € (Colazione inclusa)
@@ -21,7 +24,7 @@ Hotel CX Turin Marconi: 206.05 € (Colazione inclusa)
 AirBnb: Link per prenotazione AirBnb: [website](https://www.airbnb.it/trips/v1/reservation-details/ro/RESERVATION2_CHECKIN/HMCWEQTHBZ)
 Hotel Genova: 240,00 €
 
-(farsi dare soldi da Ilaria)
+- [ ] farsi dare soldi da Ilaria
 
 
 
